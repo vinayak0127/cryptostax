@@ -7,7 +7,7 @@
       <li>
         Firebase for authentication</li>
       <li>
--Charka UI for frontend styling</li> 
+Charka UI for frontend styling</li> 
  </ul>
 
 ![ef9d0755-d528-4109-8fbd-89c93f0d68f4](https://user-images.githubusercontent.com/60927324/135751053-1a5e5562-ea33-4f15-b5db-785c7af2ff60.gif)
