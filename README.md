@@ -3,7 +3,7 @@
 <ul>
   <li>React js</li>
     <li>
-      Data from Binance API</li>
+      Data from coin gecko API</li>
       <li>
         Firebase for authentication</li>
       <li>
