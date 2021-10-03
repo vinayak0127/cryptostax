@@ -14,11 +14,13 @@ const Nav = () => {
           <>
             <Link to="/">
               <Text fontSize="md" mr={8}>
-                Dashboard
+                <Text fontSize="md" fontWeight="semibold">
+                  Home{' '}
+                </Text>
               </Text>
             </Link>
             <Box as="button" onClick={logout}>
-              <Text fontSize="md" mr={8}>
+              <Text color="orange" fontSize="md" fontWeight="semibold" mr={8}>
                 Logout
               </Text>
             </Box>
