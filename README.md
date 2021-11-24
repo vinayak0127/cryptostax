@@ -2,7 +2,6 @@
 
 ## 📜 Description:
 - A one stop destination for all crypto price updates is built using Reactjs.
-- This repo is an attempt to help in learning popular API Working.
 - This includes the best UI to make it even more clearer and effective.
 - We can type any listed coin initials to find the details.
 - this web app uses firebase passwordless authetication so. remembering password is not an issue.
